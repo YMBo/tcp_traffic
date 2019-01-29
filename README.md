@@ -11,7 +11,7 @@ sudo python getTraffic
 ## 目录结构
 >├── README.md    
 ├── conf.py&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;//配置文件    
-├── dao.py	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;//数据库操作        					
+├── dao.py	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;//数据库操作    
 ├── getTraffic.py &ensp;&ensp;&ensp;//抓包程序    
 ├── log.py	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;							//日志程序     
-└── requirements.txt	&ensp;&ensp;&ensp;&ensp;&ensp;//依赖包         
+└── requirements.txt	&ensp;&ensp;&ensp;&ensp;&ensp;//依赖包    
