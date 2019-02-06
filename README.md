@@ -2,7 +2,7 @@
 python抓包解析并存储，流量分析
 
 ## install
-pip install -r requirements.txt
+pip install -r requirements.txt    
 sudo python getTraffic
 
 ## 说明
